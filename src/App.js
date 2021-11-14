@@ -26,7 +26,7 @@ function App() {
   let total = 0
 
   return (
-    <div style={{textAlign: "center"}}>
+    <div style={{textAlign: "center", fontFamily: "'Roboto', sans-serif"}}>
       <h1>STRYK Work Log</h1>
       <p>Total time worked: {total}
 
@@ -35,7 +35,7 @@ function App() {
       {entries.map((entry, index) => (
         <div key={index}>
           <span>🗓{entry.fields.date} </span>
-          <span>🕐{entry.fields.minutes} min –– </span>
+          <span>🕐{entry.fields.minutes} min – </span>
           <span><i>#{entry.fields.tag}</i></span>
           <br/>
           <span><i>{entry.fields.description}</i></span>
