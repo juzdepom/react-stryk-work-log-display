@@ -28,9 +28,11 @@ function App() {
   return (
     <div style={{textAlign: "center", fontFamily: "'Roboto', sans-serif"}}>
       <h1>STRYK Work Log</h1>
-      <p>Total time worked: {total}
-
+      <p>Total time worked: {total}  
+      <br/>
+      <span><i>next task: figure out how to calculate total time worked</i></span>
       </p>
+      
       <h3>All Entries</h3>
       {entries.map((entry, index) => (
         <div key={index}>
