@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-stryk-work-log-display/static/js/main.d8afc816.chunk.js",
+    "main.js.map": "/react-stryk-work-log-display/static/js/main.d8afc816.chunk.js.map",
+    "runtime-main.js": "/react-stryk-work-log-display/static/js/runtime-main.9a4d32be.js",
+    "runtime-main.js.map": "/react-stryk-work-log-display/static/js/runtime-main.9a4d32be.js.map",
+    "static/js/2.9d67e94c.chunk.js": "/react-stryk-work-log-display/static/js/2.9d67e94c.chunk.js",
+    "static/js/2.9d67e94c.chunk.js.map": "/react-stryk-work-log-display/static/js/2.9d67e94c.chunk.js.map",
+    "index.html": "/react-stryk-work-log-display/index.html",
+    "static/js/2.9d67e94c.chunk.js.LICENSE.txt": "/react-stryk-work-log-display/static/js/2.9d67e94c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a4d32be.js",
+    "static/js/2.9d67e94c.chunk.js",
+    "static/js/main.d8afc816.chunk.js"
+  ]
+}
